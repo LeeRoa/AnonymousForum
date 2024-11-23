@@ -15,7 +15,7 @@
 <table>
   <tr>
     <th>이로아(Ro A Lee)</th>
-    <td rowspan="3" width = 500>안녕하세요 풀스택 개발자 이로아입니다.</td>
+    <td rowspan="3" width = 500>안녕하세요 이로아입니다.</td>
   <tr>
     <td> 
       <img src="https://github.com/LeeRoa/HangManGame/assets/132882290/08650c7b-c203-4fcc-9737-09ff3232417e" width = 200>
